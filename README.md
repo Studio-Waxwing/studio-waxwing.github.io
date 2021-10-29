@@ -1,4 +1,6 @@
-# studio-waxwing.github.io
+# Studio Waxwing
+
+Game development studio based in Wilmington, DE.
 
 ## Find Us On
 
