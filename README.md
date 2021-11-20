@@ -8,4 +8,4 @@ Game development studio based in Wilmington, DE.
 - [Twitch](https://www.twitch.tv/studiowaxwing)
 - [Reddit](https://www.reddit.com/user/studiowaxwing)
 - [Subreddit](https://www.reddit.com/r/studiowaxwing)
-- [GitHub](https://github.com/Studio-Waxwing)
+- [GitHub](https://github.com/studiowaxwing)
